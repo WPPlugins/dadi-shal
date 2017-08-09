@@ -1,0 +1,41 @@
+/*
+ * css/dadishal-options.css
+ * 
+ * Add style for settings page
+ * 
+ * @version 	1.0 2017/01/05
+ * @package 	Dadi Shal
+ * @copyright	Copyright 2017 DAVIDE MURA  (email : muradavi@gmail.com)
+ * @license		GNU General Public License
+ * @since 		Since Release 1.0
+ * 
+ **********************************************************************/
+
+#dadishal-container h2 {
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+#dadishal-container .box {
+	background: #e4f3f5;
+    padding: 10px 20px 20px;
+    border: 1px solid #8bcdd6;
+    margin-bottom: 10px;
+}
+
+#dadishal-container .plugin-info {
+	background-color: #ffffb3;
+    padding: 10px 20px 20px;
+    border: 1px solid #bfbf7f;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+#dadishal-container .submit-button,
+#dadishal-container .reset {
+	border-top: 1px solid #ccc;
+}
+
+#dadishal-container .submit-button {
+	margin: 15px 0;
+}
